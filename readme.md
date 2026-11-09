@@ -12,7 +12,7 @@ A human-in-the-loop approval gateway for CLI AI agents, delivered through the te
 ![Chat](https://img.shields.io/badge/Chat-Discord_·_Mattermost_·_Slack-5865F2)
 ![Hackathon](https://img.shields.io/badge/WeMakeDevs-Flip_the_Switch-orange)
 
-<img src="docs/dashboard.png" alt="AgentGuard dashboard" width="860">
+<img src="./dashboard.png" alt="AgentGuard dashboard" width="860">
 
 </div>
 
